@@ -1,0 +1,264 @@
+1521655657320	geckodriver	INFO	geckodriver 0.18.0
+1521655657353	geckodriver	INFO	Listening on 127.0.0.1:58034
+1521655658571	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521655668014	Marionette	INFO	Enabled via --marionette
+1521655728490	geckodriver	INFO	geckodriver 0.18.0
+1521655728492	geckodriver	INFO	Listening on 127.0.0.1:58261
+1521655729569	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521655730086	Marionette	INFO	Enabled via --marionette
+1521655731694	Marionette	INFO	Listening on port 41579
+1521655731810	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:15059): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fd0320d5650' of type 'MaiAtkType139'
+1521655819641	geckodriver	INFO	geckodriver 0.18.0
+1521655819643	geckodriver	INFO	Listening on 127.0.0.1:41707
+1521655820716	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521655821266	Marionette	INFO	Enabled via --marionette
+1521655822828	Marionette	INFO	Listening on port 35426
+1521655822926	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:16400): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f94e16512e0' of type 'MaiAtkType139'
+1521656501696	geckodriver	INFO	geckodriver 0.18.0
+1521656501698	geckodriver	INFO	Listening on 127.0.0.1:55125
+1521656502771	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521656504196	Marionette	INFO	Enabled via --marionette
+1521656506198	Marionette	INFO	Listening on port 35191
+1521656506284	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:25716): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0cc7f67c40' of type 'MaiAtkType139'
+1521656793677	geckodriver	INFO	geckodriver 0.18.0
+1521656793680	geckodriver	INFO	Listening on 127.0.0.1:35153
+1521656794751	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521656795268	Marionette	INFO	Enabled via --marionette
+1521656797076	Marionette	INFO	Listening on port 44144
+1521656797162	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:29621): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fbcbd4b6740' of type 'MaiAtkType139'
+1521656802216	geckodriver	INFO	geckodriver 0.18.0
+1521656802228	geckodriver	INFO	Listening on 127.0.0.1:50591
+1521656803279	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521656804644	Marionette	INFO	Enabled via --marionette
+1521656807426	Marionette	INFO	Listening on port 38893
+1521656807502	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:29903): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fe8377764c0' of type 'MaiAtkType139'
+1521656887214	geckodriver	INFO	geckodriver 0.18.0
+1521656887216	geckodriver	INFO	Listening on 127.0.0.1:37819
+1521656887295	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521656888004	Marionette	INFO	Enabled via --marionette
+1521656891314	Marionette	INFO	Listening on port 40994
+1521656891408	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:31174): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f8c7e384bf0' of type 'MaiAtkType139'
+1521656903116	geckodriver	INFO	geckodriver 0.18.0
+1521656903120	geckodriver	INFO	Listening on 127.0.0.1:43789
+1521656904186	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521656908282	Marionette	INFO	Enabled via --marionette
+1521656919934	Marionette	INFO	Listening on port 37254
+1521656920108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521657026864	geckodriver	INFO	geckodriver 0.18.0
+1521657026867	geckodriver	INFO	Listening on 127.0.0.1:32968
+1521657028057	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521657033144	Marionette	INFO	Enabled via --marionette
+1521657039756	Marionette	INFO	Listening on port 38175
+1521657039896	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:958): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7feac0a04e70' of type 'MaiAtkType139'
+1521657050382	geckodriver	INFO	geckodriver 0.18.0
+1521657050385	geckodriver	INFO	Listening on 127.0.0.1:39043
+1521657051534	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521657057464	Marionette	INFO	Enabled via --marionette
+1521657065088	Marionette	INFO	Listening on port 43937
+1521657065214	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:1524): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fed363157e0' of type 'MaiAtkType139'
+1521657079433	geckodriver	INFO	geckodriver 0.18.0
+1521657079436	geckodriver	INFO	Listening on 127.0.0.1:50000
+1521657080564	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521657084618	Marionette	INFO	Enabled via --marionette
+1521657092322	Marionette	INFO	Listening on port 41188
+1521657095720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521658102465	geckodriver	INFO	geckodriver 0.18.0
+1521658102467	geckodriver	INFO	Listening on 127.0.0.1:58573
+1521658103557	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521658105032	Marionette	INFO	Enabled via --marionette
+1521658107030	Marionette	INFO	Listening on port 46357
+1521658107076	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:16436): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0f340fe060' of type 'MaiAtkType139'
+1521658115408	geckodriver	INFO	geckodriver 0.18.0
+1521658115412	geckodriver	INFO	Listening on 127.0.0.1:51731
+1521658116484	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521658117070	Marionette	INFO	Enabled via --marionette
+1521658118718	Marionette	INFO	Listening on port 41285
+1521658118800	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:16771): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fde05ce4380' of type 'MaiAtkType139'
+1521658124860	geckodriver	INFO	geckodriver 0.18.0
+1521658124863	geckodriver	INFO	Listening on 127.0.0.1:51638
+1521658125937	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521658126532	Marionette	INFO	Enabled via --marionette
+1521658128332	Marionette	INFO	Listening on port 46632
+1521658128354	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521658184253	geckodriver	INFO	geckodriver 0.18.0
+1521658184255	geckodriver	INFO	Listening on 127.0.0.1:58390
+1521658184369	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521658185310	Marionette	INFO	Enabled via --marionette
+1521658187242	Marionette	INFO	Listening on port 41848
+1521658187284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521658195826	geckodriver	INFO	geckodriver 0.18.0
+1521658195829	geckodriver	INFO	Listening on 127.0.0.1:46301
+1521658196900	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521658197466	Marionette	INFO	Enabled via --marionette
+1521658199550	Marionette	INFO	Listening on port 46344
+1521658199610	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:18375): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fcbf8118420' of type 'MaiAtkType139'
+1521658208243	geckodriver	INFO	geckodriver 0.18.0
+1521658208246	geckodriver	INFO	Listening on 127.0.0.1:36846
+1521658209313	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521658209968	Marionette	INFO	Enabled via --marionette
+1521658211686	Marionette	INFO	Listening on port 35592
+1521658211748	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521658583684	geckodriver	INFO	geckodriver 0.18.0
+1521658583686	geckodriver	INFO	Listening on 127.0.0.1:36592
+1521658584758	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521658585288	Marionette	INFO	Enabled via --marionette
+1521658587264	Marionette	INFO	Listening on port 33435
+1521658587268	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:23907): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7feda9f251f0' of type 'MaiAtkType139'
+1521658596023	geckodriver	INFO	geckodriver 0.18.0
+1521658596026	geckodriver	INFO	Listening on 127.0.0.1:57905
+1521658597098	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521658597670	Marionette	INFO	Enabled via --marionette
+1521658599472	Marionette	INFO	Listening on port 36470
+1521658599512	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:24244): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f4ecfac6ba0' of type 'MaiAtkType139'
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521658640009	geckodriver	INFO	geckodriver 0.18.0
+1521658640011	geckodriver	INFO	Listening on 127.0.0.1:45059
+1521658641087	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521658641604	Marionette	INFO	Enabled via --marionette
+1521658643244	Marionette	INFO	Listening on port 37894
+1521658643298	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:25044): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f7a087f8650' of type 'MaiAtkType139'
+1521658650080	geckodriver	INFO	geckodriver 0.18.0
+1521658650082	geckodriver	INFO	Listening on 127.0.0.1:37860
+1521658651153	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521658651726	Marionette	INFO	Enabled via --marionette
+1521658653670	Marionette	INFO	Listening on port 35268
+1521658653784	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:25340): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fe17f7a8e20' of type 'MaiAtkType139'
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521659380654	geckodriver	INFO	geckodriver 0.18.0
+1521659380656	geckodriver	INFO	Listening on 127.0.0.1:51745
+1521659381727	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521659382246	Marionette	INFO	Enabled via --marionette
+1521659383910	Marionette	INFO	Listening on port 46864
+1521659383936	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521659408360	geckodriver	INFO	geckodriver 0.18.0
+1521659408363	geckodriver	INFO	Listening on 127.0.0.1:52002
+1521659409436	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521659409974	Marionette	INFO	Enabled via --marionette
+1521659411648	Marionette	INFO	Listening on port 34183
+1521659411756	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521659444590	geckodriver	INFO	geckodriver 0.18.0
+1521659444592	geckodriver	INFO	Listening on 127.0.0.1:53324
+1521659445664	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521659446206	Marionette	INFO	Enabled via --marionette
+1521659447906	Marionette	INFO	Listening on port 41996
+1521659447974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521659527327	geckodriver	INFO	geckodriver 0.18.0
+1521659527329	geckodriver	INFO	Listening on 127.0.0.1:57589
+1521659528404	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521659528972	Marionette	INFO	Enabled via --marionette
+1521659530640	Marionette	INFO	Listening on port 45110
+1521659530714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521659648156	geckodriver	INFO	geckodriver 0.18.0
+1521659648158	geckodriver	INFO	Listening on 127.0.0.1:39641
+1521659649231	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521659649778	Marionette	INFO	Enabled via --marionette
+1521659651462	Marionette	INFO	Listening on port 42991
+1521659651548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521659675861	geckodriver	INFO	geckodriver 0.18.0
+1521659675863	geckodriver	INFO	Listening on 127.0.0.1:57361
+1521659676937	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521659677492	Marionette	INFO	Enabled via --marionette
+1521659679236	Marionette	INFO	Listening on port 33896
+1521659679254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521659805438	geckodriver	INFO	geckodriver 0.18.0
+1521659805440	geckodriver	INFO	Listening on 127.0.0.1:36602
+1521659806512	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521659807114	Marionette	INFO	Enabled via --marionette
+1521659808886	Marionette	INFO	Listening on port 35248
+1521659808924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521659819501	geckodriver	INFO	geckodriver 0.18.0
+1521659819503	geckodriver	INFO	Listening on 127.0.0.1:33169
+1521659820577	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521659821100	Marionette	INFO	Enabled via --marionette
+1521659823106	Marionette	INFO	Listening on port 46101
+1521659823192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521659868276	geckodriver	INFO	geckodriver 0.18.0
+1521659868278	geckodriver	INFO	Listening on 127.0.0.1:47864
+1521659869350	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521659869894	Marionette	INFO	Enabled via --marionette
+1521659871460	Marionette	INFO	Listening on port 46579
+1521659871566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521660184495	geckodriver	INFO	geckodriver 0.18.0
+1521660184497	geckodriver	INFO	Listening on 127.0.0.1:40409
+1521660185570	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521660186134	Marionette	INFO	Enabled via --marionette
+1521660187768	Marionette	INFO	Listening on port 44184
+1521660187780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521660320043	geckodriver	INFO	geckodriver 0.18.0
+1521660320045	geckodriver	INFO	Listening on 127.0.0.1:53988
+1521660321122	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521660321646	Marionette	INFO	Enabled via --marionette
+1521660323418	Marionette	INFO	Listening on port 46014
+1521660323436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521660456993	geckodriver	INFO	geckodriver 0.18.0
+1521660456995	geckodriver	INFO	Listening on 127.0.0.1:58919
+1521660458066	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521660458640	Marionette	INFO	Enabled via --marionette
+1521660460254	Marionette	INFO	Listening on port 34257
+1521660460280	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:19345): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f9c2b1098d0' of type 'MaiAtkType139'
+
+(firefox:19345): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f9c2aff9a60' of type 'MaiAtkType139'
+1521660502637	geckodriver	INFO	geckodriver 0.18.0
+1521660502640	geckodriver	INFO	Listening on 127.0.0.1:32992
+1521660503711	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521660504244	Marionette	INFO	Enabled via --marionette
+1521660505976	Marionette	INFO	Listening on port 37037
+1521660506020	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:20135): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fd7f4ac8790' of type 'MaiAtkType139'
+
+(firefox:20135): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fd7f4b9dab0' of type 'MaiAtkType139'
+1521660589667	geckodriver	INFO	geckodriver 0.18.0
+1521660589669	geckodriver	INFO	Listening on 127.0.0.1:36000
+1521660590740	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521660591252	Marionette	INFO	Enabled via --marionette
+1521660592874	Marionette	INFO	Listening on port 33281
+1521660592960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521661729115	geckodriver	INFO	geckodriver 0.18.0
+1521661729117	geckodriver	INFO	Listening on 127.0.0.1:45085
+1521661730192	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1521661730708	Marionette	INFO	Enabled via --marionette
+1521661732508	Marionette	INFO	Listening on port 36142
+1521661732600	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:4694): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fd6bfd73740' of type 'MaiAtkType139'
