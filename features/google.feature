@@ -1,6 +1,4 @@
-# Created by javiersorella at 21/03/18
 Feature: Google search engine
-  # Enter feature description here
 
   Scenario: User access to Google homepage
     Given a Firefox navigator
@@ -9,5 +7,5 @@ Feature: Google search engine
 
   Scenario: User tries to search something in Google
     Given a Google home page in Firefox
-    When the user searchs for "Globant"
-    Then the engine returns more than 3 results
+    When the user search for "Globant" using Google
+    Then the Google engine returns more than 3 results
