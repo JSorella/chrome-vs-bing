@@ -1,3 +1,4 @@
+
 class Browser(object):
 
     def __init(self):

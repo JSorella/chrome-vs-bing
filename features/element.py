@@ -1,21 +1,34 @@
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions
+from selenium.common.exceptions import NoSuchElementException, ElementNotVisibleException
+from selenium.webdriver.remote.webelement import WebElement
 
 
 class BasePageElement(object):
     """Base page class that is initialized on every page object class."""
 
-    def __set__(self, obj, value):
-        """Sets the text to the value supplied"""
-        driver = obj.driver
-        WebDriverWait(driver, 100).until(
-            lambda driver: driver.find_element_by_name(self.locator))
-        driver.find_element_by_name(self.locator).clear()
-        driver.find_element_by_name(self.locator).send_keys(value)
+    @staticmethod
+    def find_element(driver, timeout, locator):
 
-    def __get__(self, obj, owner):
-        """Gets the text of the specified object"""
-        driver = obj.driver
-        WebDriverWait(driver, 100).until(
-            lambda driver: driver.find_element_by_name(self.locator))
-        element = driver.find_element_by_name(self.locator)
-        return element.get_attribute("value")
+        result = WebDriverWait(
+            driver, timeout, ignored_exceptions=[NoSuchElementException, ElementNotVisibleException]).until(
+                lambda s: expected_conditions.visibility_of_element_located(locator)(driver)
+            )
+
+        if isinstance(result, WebElement):
+            return result
+        else:
+            raise NoSuchElementException("The element was not found on DOM")
+
+    @staticmethod
+    def find_elements(driver, timeout, locator):
+
+        results = WebDriverWait(
+            driver, timeout, ignored_exceptions=[NoSuchElementException, ElementNotVisibleException]).until(
+            lambda s: expected_conditions.visibility_of_any_elements_located(locator)(driver)
+        )
+
+        if all(isinstance(result, WebElement) for result in results):
+            return results
+        else:
+            raise NoSuchElementException("The element was not found on DOM")
