@@ -1,5 +1,6 @@
 from features.browser import Browser
 from features.element import BasePageElement
+from abc import abstractmethod
 
 
 class SearchEngineHomepage(Browser):
@@ -12,6 +13,12 @@ class SearchEngineHomepage(Browser):
         """Triggers the search"""
         BasePageElement.find_element(self.driver, 60, self.TEXT_SEARCH).send_keys(value)
         BasePageElement.find_element(self.driver, 60, self.FIND_BUTTON).click()
+
+        return self.get_results_page()
+
+    @abstractmethod
+    def get_results_page(self):
+        pass
 
 
 class SearchEngineResults(Browser):

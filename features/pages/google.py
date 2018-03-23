@@ -13,6 +13,9 @@ class GoogleHome(SearchEngineHomepage):
         self.url = "http://www.google.com"
         self.title = "Google"
 
+    def get_results_page(self):
+        return GoogleSearchResults(self.driver)
+
 
 class GoogleSearchResults(SearchEngineResults):
     """Search results page action methods come here"""

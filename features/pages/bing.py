@@ -13,6 +13,9 @@ class BingHome(SearchEngineHomepage):
         self.url = "http://www.bing.com"
         self.title = "Bing"
 
+    def get_results_page(self):
+        return BingSearchResults(self.driver)
+
 
 class BingSearchResults(SearchEngineResults):
     """Search results page action methods come here"""
