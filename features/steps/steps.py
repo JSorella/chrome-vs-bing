@@ -36,6 +36,14 @@ def step_impl(context, engine):
     assert (len(results) > 3)
 
 
+@then('the first title result in {engine} contains "{term}" on it')
+def step_impl(context, engine, term):
+    results = context.result_page.get_results()
+    first_title = context.result_page.get_first_title(results)
+
+    assert (term in first_title.text.lower())
+
+
 @given('two web search engines: {engine_a} and {engine_b}')
 def step_impl(context, engine_a, engine_b):
     context.engine_page_a = getattr(context, engine_a.lower())

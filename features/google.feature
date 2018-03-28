@@ -9,3 +9,14 @@ Feature: Google search engine
     Given a Google home page in Firefox
     When the user search for "Globant" using Google
     Then the Google engine returns more than 3 results
+
+  Scenario Outline: User tries to search a term in Google
+    Given a Google home page in Firefox
+    When the user search for "<term>" using Google
+    Then the first title result in Google contains "<term>" on it
+
+    Examples:
+        | term        |
+        | oranges     |
+        | watermelon  |
+    
