@@ -3,14 +3,21 @@
 El propósito de este proyecto es el de automatizar tests en Google y en Bing usando Selenium 
 y mostrar sus diferencias en Behave.
 
+## Dependencias
+
+Este proyecto requiere de las siguientes dependencias:
+
+1. behave
+2. selenium
+
 ## Ejecución de los tests
 
 Para ejecutar los tests, hay dos opciones:
 
 1. Usando el comando `behave` en la terminal 
-2.  Corriendo los tests desde PyCharm
+2. Corriendo los tests desde PyCharm
 
-## Manejo de Entornos en Python
+## Manejo de Entornos en Python _(opcional)_
 
 Para manejar las dependencias de un entorno en Python, hay una herramienta llamada “VirtualenvWrapper”:
 http://virtualenvwrapper.readthedocs.io/en/latest/install.html
@@ -49,4 +56,4 @@ Para seleccionar nuestro nuevo entorno, ejecutamos el comando:
 Ahora, debemos instalar aquellas dependencias propias de nuestro entorno:
 
     $ pip install selenium
-    $ pip install …
+    $ pip install behave
